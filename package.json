@@ -1,9 +1,9 @@
 {
-  "name": "react-native-i18n",
-  "version": "2.0.15",
+  "name": "rni18kh",
+  "version": "1.0.0",
   "description": "Provide I18n to your React Native application",
   "license": "MIT",
-  "author": "Alexander Zaytsev",
+  "author": "Alexander Zaytsev - Rimk fix",
   "main": "index.js",
   "repository": {
     "type": "git",
